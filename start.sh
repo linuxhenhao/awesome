@@ -6,7 +6,7 @@ check_and_run()
 		$1 &
 	fi
 }
-programs="xcompmgr sogou-qimpanel synap"
+programs="xcompmgr sogou-qimpanel synap volumeicon"
 
 for i in $programs
 do
